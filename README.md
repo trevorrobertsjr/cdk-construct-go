@@ -1,8 +1,8 @@
 # CDK Go Samples!
 
 **NOTICE**: Go support is still in Developer Preview. This implies that APIs may
-change while we address early feedback from the community. We would love to hear
-about your experience through GitHub issues.
+change while the AWS CDK Team addresses early feedback from the community. The team would love to hear
+about your experience through [GitHub issues](https://github.com/aws/aws-cdk/issues).
 
 ## Useful commands
 
